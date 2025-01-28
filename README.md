@@ -1,4 +1,4 @@
-# 🌟 COMICS DOWNLOADER V1.01.14
+# 🌟 COMICS DOWNLOADER V1.02.16
 > release date: 22-12-2024
 
 Welcome to **Comics Downloader**! 🚀  
